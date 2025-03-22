@@ -11,6 +11,7 @@ function pioneerMapping(mode)
 %   elapsed time.
 %
 %   Note: The robot is teleoperated via blocking input() commands in manual mode.
+%   MA: Test comment to confirm git operations working
 
     % Validate mode argument
     if nargin < 1
